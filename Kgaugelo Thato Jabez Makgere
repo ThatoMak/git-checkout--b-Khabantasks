@@ -1,0 +1,48 @@
+public class Welcome
+{
+    public static void main(String args{})
+    {
+        System.out.println("Welcome to EasyKanban")
+        {
+        
+{
+   public static void
+   Scanner scan = new Scanner(System.in);
+   int choice;
+   printMenu();
+   choice = scan.nextInt();
+   while choice ! = 3) {
+       switch (choice) {
+       case 1:
+           System.out.println("1.Add Tasks");
+           break;
+      case 2:
+          System.out.println("Show Report");
+          break;
+     case 3:
+         System.out.prinntln("3.Quit");
+         break;
+     printMenu();
+     choice = scan.nextInt();
+}
+else{
+  System.out.println("Coming Soon")
+  }
+public void printMenu() {
+    System.out.println("Select one of the following:/n"
+             + "1) Task 1/n"
+             + "2) Task 2/n"
+  }
+  
+public class EnterTask
+{
+     int g;
+     while(g < 50)
+     {
+         String input = JOptionPane.showInputDialogue("Login Task")
+         if(input.length() > 50)
+         {
+              g ++;
+              System.out.println("Task successfully captured");
+              }
+    
